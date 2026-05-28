@@ -143,10 +143,17 @@ flutter run
 
 ## Screenshots
 
-- `[Home screen screenshot here]`
-- `[Clubs screen screenshot here]`
-- `[Events screen screenshot here]`
-- `[Profile screen screenshot here]`
+### Home Screen
+![Home](screenshots/home.jpg)
+
+### Clubs Screen
+![Clubs](screenshots/clubs.jpg)
+
+### Events Screen
+![Events](screenshots/events.jpg)
+
+### Profile Screen
+![Profile](screenshots/profile.jpg)
 
 ## Notes
 
